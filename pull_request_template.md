@@ -10,6 +10,6 @@
 * [ ] Have you successfully ran tests with your changes locally?
 * [ ] All new and existing tests passed.
 * [ ] Have you run `rubocop` and fixed offenses?
-**Test coverage** =
+**Test coverage** = %
 --------------------------------------------------------------------------------
 ### Change Log
